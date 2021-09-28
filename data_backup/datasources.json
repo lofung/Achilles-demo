@@ -1,0 +1,12 @@
+ { "datasources":[ 
+	{ 
+		"name":"HA Database", 
+		"folder":"HA", 
+		"cdmVersion": 5 
+	} ,
+		{ 
+		"name":"THIN Database", 
+		"folder":"THIN", 
+		"cdmVersion": 5 
+	} 
+]} 
